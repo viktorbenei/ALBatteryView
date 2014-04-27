@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8EDEC6E2-3B7C-4D58-B88C-F8DEFBD44930</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ALBatteryView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>14FDC0F8-8D03-42D1-AA05-2543343FAADC</key>
+		<string>ssh://github.com/viktorbenei/ALBatteryView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ALBatteryView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>14FDC0F8-8D03-42D1-AA05-2543343FAADC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/viktorbenei/ALBatteryView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>14FDC0F8-8D03-42D1-AA05-2543343FAADC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>14FDC0F8-8D03-42D1-AA05-2543343FAADC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ALBatteryView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
